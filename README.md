@@ -92,7 +92,6 @@ drone-ai/
 
 ## 📽️ Sample Drone Trajectory
 Work in Progress, samples are not fully optimised but seems to be improving.
-![](experiments/models/trajectory.gif)
 ![](experiments/models/trajectory_3d.gif)
 
 
