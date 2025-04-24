@@ -42,7 +42,7 @@ This project explores deep reinforcement learning (RL) techniques for autonomous
 ---
 
 ## 📁 Project Structure
-
+```
 drone-ai/
 ├── agents/                  # DDPG and PPO agents
 │   ├── ddpg_agent.py
@@ -67,7 +67,7 @@ drone-ai/
 │   └── per_buffer.py
 │
 └── README.md                # Project overview and documentation
-
+```
 
 ---
 
